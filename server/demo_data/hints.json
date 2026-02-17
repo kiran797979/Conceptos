@@ -1,0 +1,18 @@
+[
+  {
+    "topic": "fractions",
+    "hints": [
+      "A fraction has a numerator (top) and denominator (bottom).",
+      "Use a common denominator before adding or subtracting.",
+      "Simplify by dividing numerator and denominator by the same number."
+    ]
+  },
+  {
+    "topic": "photosynthesis",
+    "hints": [
+      "Plants use sunlight, water, and carbon dioxide.",
+      "The process mainly happens in leaf chloroplasts.",
+      "Glucose is produced and oxygen is released."
+    ]
+  }
+]
