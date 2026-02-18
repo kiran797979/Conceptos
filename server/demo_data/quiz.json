@@ -1,0 +1,23 @@
+[
+  {
+    "topic": "fractions",
+    "id": "fr-1",
+    "question": "What is 1/2 + 1/4?",
+    "options": ["1/6", "2/6", "3/4", "2/4"],
+    "answer": "3/4"
+  },
+  {
+    "topic": "fractions",
+    "id": "fr-2",
+    "question": "Which fraction is equivalent to 2/6?",
+    "options": ["1/3", "3/6", "4/6", "2/3"],
+    "answer": "1/3"
+  },
+  {
+    "topic": "photosynthesis",
+    "id": "ph-1",
+    "question": "Which gas do plants absorb during photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  }
+]
